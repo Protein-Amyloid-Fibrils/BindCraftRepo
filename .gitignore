@@ -1,0 +1,14 @@
+# Heavy Environments & Caches
+env_prod/
+conda_cache/
+
+# AI Model Parameters
+params/
+
+# Project Data / Design Outputs
+PDL1/
+
+# Standard system files to ignore
+.DS_Store
+slurm-*.out
+*.log
