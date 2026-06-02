@@ -1,9 +1,9 @@
 {
     "design_path": "./TMEM_output/",
-    "binder_name": "PDL1",
+    "binder_name": "TMEM.pdb",
     "starting_pdb": "./example/TMEM.pdb",
     "chains": "A",
-    "target_hotspot_residues": "125,127",
+    "target_hotspot_residues": "125,135",
     "lengths": [65, 150],
     "number_of_final_designs": 10
 }
